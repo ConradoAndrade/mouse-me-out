@@ -1,5 +1,5 @@
 
-![Alt text](/build/gameimage.png?raw=true "game image")
+![Alt text](/game/out/gameimage.png?raw=true "game image")
 
 # Mouse me Out
 
